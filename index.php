@@ -93,7 +93,7 @@ if(filter_has_var(INPUT_POST, 'submit')){
                 </div>
 
                 <div class="form-group">
-                  <button type="submit" name="submit">Submit</button>
+                  <button type="submit" name="submit" class="btn btn-success">Submit</button>
                 </div>
 
             </form>
